@@ -1,0 +1,49 @@
+SAMPLE BLOOD TEST REPORT
+For Software Testing Only — Not a Real Patient
+
+Patient Name: Test Patient
+Age: 28 years
+Sex: Female
+
+COMPLETE BLOOD COUNT (CBC)
+
+Hemoglobin:          10.2 g/dL
+RBC Count:           3.8 million/µL
+WBC Count:           11,800 /µL
+Platelet Count:      245,000 /µL
+Hematocrit (HCT):    32%
+MCV:                 76 fL
+MCH:                 24 pg
+MCHC:                30.5 g/dL
+
+DIFFERENTIAL COUNT
+
+Neutrophils:         72%
+Lymphocytes:         21%
+Monocytes:           5%
+Eosinophils:         2%
+Basophils:           0%
+
+OTHER TESTS
+
+Fasting Blood Sugar: 108 mg/dL
+HbA1c:               5.8%
+Total Cholesterol:   212 mg/dL
+LDL Cholesterol:     138 mg/dL
+HDL Cholesterol:     47 mg/dL
+Triglycerides:       145 mg/dL
+
+LIVER FUNCTION
+
+ALT (SGPT):          32 U/L
+AST (SGOT):          29 U/L
+Total Bilirubin:     0.8 mg/dL
+
+KIDNEY FUNCTION
+
+Creatinine:          0.9 mg/dL
+Blood Urea Nitrogen: 15 mg/dL
+
+THYROID
+
+TSH:                 3.1 mIU/L
